@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="../css/main.css" />
+    <style type="text/css"></style>
+    <title>404</title>
+  </head>
+  <body>
+      <div>
+      <h1>404</h1>
+    <div class="justify-content: center">
+      <p>I'm afraid you've found a page that doesn't exit
+          on this website. That can happen when you follow 
+          a link to something That has since been deleted.
+          Or the link was incorrect to begin with.</p>
+    </div>
+    <div>
+        <p>
+            Sorry about that. we've logged the error for review, in case it's our fault.
+        </p>
+    </div>
+    <nav>
+        <li><a class="nav-items" href="404.html">Go Home</a></li>
+        <li><a class="nav-items" href="404.html">Contact Support</a></li>
+    
+    </nav>
+</div>
+  </body>
+  </html>
